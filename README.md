@@ -1,11 +1,21 @@
 # Self Introduction
 
+## Personal Information
+
 ## Skills
 
 - Programming Languages: C/C++, Java, Python, JNI, Shell, C#
-- Web Development: HTML, CSS, React, Node.js
 - Database: MySQL, SQLite, Redis
 - Version Control: Git / GitHub / GitLab / Gitee
+- Software Development: Visual Studio, Eclipse, Android Studio, Qt Creator, CLion, Vim, Emacs
+- Software Debugging: GDB, Valgrind, Perf, Android Profiler, Android Systrace, Android Trace
+- Software Testing: JUnit, Google Test, Google Mock, Mockito, PowerMock, Robolectric, Espresso, JMeter
+- Software Build: Make, CMake, Gradle, Maven, Ant, NDK-Build
+- System Architecture: Android, Linux, Windows, Embedded, MCU
+
+## Professional Headline
+
+- Senior Software Engineer
 
 ## Experience
 
